@@ -1,0 +1,15 @@
+{
+  "name": "sust-medical-center-server",
+  "version": "1.0.0",
+  "description": "server for medical center app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amir Hamza",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^10.0.0"
+    
+  }
+}
